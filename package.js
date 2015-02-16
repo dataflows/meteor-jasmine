@@ -4,10 +4,10 @@
  */
 
 Package.describe({
-  name: 'sanjo:jasmine',
+  name: 'dataflows:jasmine',
   summary: 'Easily use Jasmine in Meteor',
-  version: '0.12.3',
-  git: 'https://github.com/Sanjo/meteor-jasmine.git',
+  version: '0.12.31',
+  git: 'https://github.com/dataflows/meteor-jasmine.git',
   debugOnly: true
 })
 
