@@ -9,7 +9,8 @@ packagesToIncludeInUnitTests = [
   'mrt:moment',
   'rzymek:moment',
   'xolvio:webdriver',
-  'practicalmeteor:sinon'
+  'practicalmeteor:sinon',
+  'chaosbohne:pegjs'
 ]
 
 var customIncludedPackages =
