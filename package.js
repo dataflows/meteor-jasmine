@@ -6,7 +6,7 @@
 Package.describe({
   name: 'dataflows:jasmine',
   summary: 'Easily use Jasmine in Meteor',
-  version: '0.12.32',
+  version: '0.12.33',
   git: 'https://github.com/dataflows/meteor-jasmine.git',
   debugOnly: true
 })
