@@ -6,13 +6,13 @@
 Package.describe({
   name: 'dataflows:jasmine',
   summary: 'Easily use Jasmine in Meteor',
-  version: '0.13.0-rc.5',
+  version: '0.13.0-rc.5.1',
   git: 'https://github.com/dataflows/meteor-jasmine.git',
   debugOnly: true
 })
 
 Npm.depends({
-  'jasmine-core': 'https://github.com/Sanjo/jasmine/archive/be80c78105b5309b42b9c39b6d535478ec4ac747.tar.gz',
+  'jasmine-core': 'https://github.com/jasmine/jasmine/archive/ff029b37b5b2fb95c6f2252713b14586f86786cb.tar.gz',
   'component-mocker': '0.2.0',
   'mkdirp': '0.5.0',
   'glob': '5.0.3',
